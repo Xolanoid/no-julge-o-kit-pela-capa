@@ -1,0 +1,43 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="vBBY2kcOYxxX/p)C6^O!" x="-129" y="46"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="~MH$quOKY|sB7a8mCN5-"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="robotbit_servo" id="wWxX_9)@7S-sP$C}5(9E"><field name="index">robotbit.Servos.S1</field><value name="degree"><shadow type="math_number_minmax" id="fDV5HJnY*X8I?.G4RJm0"><mutation min="0" max="180" label="Degree" precision="0"></mutation><field name="SLIDER">0</field></shadow></value><next><block type="device_show_leds" id="#2{~i.9ddqG;h$!6ltgx"><field name="LEDS">`
+        . . . . # 
+        . . . # . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="robotbit_servo" id="E-0DnM^B{$:br7yxw4{^"><field name="index">robotbit.Servos.S1</field><value name="degree"><shadow type="math_number_minmax" id=",cVbL0a3UvKsP7,j3q0B"><mutation min="0" max="180" label="Degree" precision="0"></mutation><field name="SLIDER">45</field></shadow></value><next><block type="device_show_leds" id="wx?6fgJo51r=2l)Cl-;E"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # # # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="robotbit_servo" id="L,Sdb/!mQUSjKt0-3p_#"><field name="index">robotbit.Servos.S1</field><value name="degree"><shadow type="math_number_minmax" id="n_d@5:DQQo,MB0T9n7]9"><mutation min="0" max="180" label="Degree" precision="0"></mutation><field name="SLIDER">90</field></shadow></value><next><block type="device_show_leds" id="fCl.,U`2_H])tY9PK_*L"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . # . 
+        . . . . #
+        `</field><next><block type="robotbit_servo" id="BhwX28P7QlH?0UpK6Id["><field name="index">robotbit.Servos.S1</field><value name="degree"><shadow type="math_number_minmax" id="9rHJMTFr$rM,~zhn]D4n"><mutation min="0" max="180" label="Degree" precision="0"></mutation><field name="SLIDER">135</field></shadow></value><next><block type="device_show_leds" id="ELjP.T%G8M[`7k9y/+]@"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="robotbit_servo" id="ITt1V7mAmv-5x;dl`Ei0"><field name="index">robotbit.Servos.S1</field><value name="degree"><shadow type="math_number_minmax" id="~dqlB0DkI4ux1;^$fA=$"><mutation min="0" max="180" label="Degree" precision="0"></mutation><field name="SLIDER">180</field></shadow></value><next><block type="device_show_leds" id="Bqb[T=gJ2E}aAy5?NN7_"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . # . . . 
+        # . . . .
+        `</field><next><block type="robotbit_servo" id="n`-_w6A0)`YcJ5i`3IRt"><field name="index">robotbit.Servos.S1</field><value name="degree"><shadow type="math_number_minmax" id="_gkTxKLCWdrE!RujR*c."><mutation min="0" max="180" label="Degree" precision="0"></mutation><field name="SLIDER">225</field></shadow></value><next><block type="device_show_leds" id="4Gm~`7V]f89GJKmbF*Rs"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="robotbit_servo" id="*z)9qJ*3Y)bChN3(%L|8"><field name="index">robotbit.Servos.S1</field><value name="degree"><shadow type="math_number_minmax" id="{:*0?{tMd.Y[;Gtk=cSM"><mutation min="0" max="180" label="Degree" precision="0"></mutation><field name="SLIDER">270</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
